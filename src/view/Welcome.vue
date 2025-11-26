@@ -4,8 +4,8 @@ import { materis } from "../data/materiStore";
 <template>
   <div class="antialiased bg-gray-900 text-gray-200 min-h-screen relative">
     <!-- Hero Section -->
-    <div class="relative top-[-100px] h-[600px] flex items-center justify-center text-center bg-cover bg-center" style="background-image: url('/images/creator/all.jpg')">
-      <div class="absolute inset-0 bg-black opacity-60"></div>
+    <div class="relative top-[-100px] h-[600px] flex items-center justify-center text-center bg-cover bg-center">
+      <div class="absolute inset-0 bg-gray-800 opacity-60"></div>
       <div class="relative z-10 px-4">
         <h1 class="text-5xl font-extrabold text-white">Selamat Datang di Edutechia</h1>
         <p class="mt-4 text-xl text-gray-300">Platform pembelajaran online untuk masa depan Anda.</p>
