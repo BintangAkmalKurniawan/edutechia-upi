@@ -10,6 +10,6 @@ export const materis = ref([
     user: "Tim Edutechia",
     kuis: "https://wordwall.net/id/embed/2d35357ecb9c4e00987ad6f254ca54df?themeId=65&templateId=5&fontStackId=0",
     diskusi: "https://padlet.com/embed/74j16l8zzx26bg6m",
-    videos: "https://drive.google.com/file/d/1jsDgtB1cQF_xMv3uSD0Vif56UffILva4/view?usp=drive_link",
+    videos: "https://drive.google.com/file/d/1m3xD9pUxEt3_6Bqk1J3iMbVuZmrypQ0x/view?usp=drive_link",
   },
 ]);
